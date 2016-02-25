@@ -1,3 +1,16 @@
 body {
 	background: limegreen;
 }
+
+h1 {
+	color: yellow;
+}
+
+h3 {
+	color: purple;
+	text-decoration: underline;
+}
+
+p {
+	color: darkgray;
+}
